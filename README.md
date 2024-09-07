@@ -10,7 +10,7 @@ Welcome to the Ultimate Privacy Guide! This repository is a comprehensive collec
 - [Browser Recommendations 🌟](#browser-recommendations-): Recommendations for privacy-focused web browsers.
 - [VPNs 🛡️](#vpns-): Recommendations for privacy-focused VPN services.
 - [Tools and Utilities 🧰](#tools-and-utilities-): Essential tools for ad-blocking, password management, and data security.
-- [Hardware 🛒](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
+- [Hardware 🖥️](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
 - [Podcasts and Media 📺](#podcasts-and-media-): Engaging content on cybersecurity and hacking.
 - [Recommended YouTubers 📺](#recommended-youtubers-): Influential creators sharing insights on technology, cybersecurity, and more.
 - [License 📝](#license-): Information about the licensing terms for this repository.
@@ -186,10 +186,15 @@ Feel free to choose based on your specific privacy needs and preferences!
   Handy tool that generates random IDs using a time-based hashing algorithm. Ideal for unique identifier generation in scripts, projects or usernames.  
   URL: https://www.icloud.com/shortcuts/6c8684fc6b3b49fc9ec6606a9064c8b0
 
-## Hardware 🛒
-- **Buy a Raspberry Pi** 🍓  
-  Purchase Raspberry Pi boards and accessories, a versatile, low-cost computer ideal for DIY electronics projects, home automation, or network security setups.  
+## Hardware 🖥️
+
+- **Buy a Raspberry Pi** 🥧  
+  Ideal for DIY projects, home automation, and learning about computing. A versatile and affordable option for various tech enthusiasts.  
   URL: https://thepihut.com
+
+- **Protectli** 🔒  
+  Provides a range of secure, reliable hardware solutions designed for protecting your network. Suitable for setting up firewalls and secure network appliances.  
+  URL: https://eu.protectli.com
 
 ## Podcasts and Media 📺
 - **The Lazarus Heist (Season 1 & 2)** 🎬
