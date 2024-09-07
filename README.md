@@ -1,4 +1,4 @@
-# Welcome to the Ultimate Privacy Guide! 🌐🔒
+# Ultimate Privacy Guide! 🌐🔒
 
 This repository is a semi-comprehensive collection of resources, tools, and recommendations designed to help you enhance your online privacy and security. Whether you're just starting out or looking to secure your internet connection, protect your personal information, or explore the latest privacy-focused technologies, you'll find valuable links and information here.
 
@@ -9,9 +9,10 @@ Dive into the sections below to discover tools and services that can help you ac
 
 ## Table of Contents
 
-- [DNS 🌐](#dns-): Tools for improving internet security and privacy.
-- [Proton Products 🔒](#proton-products-): A suite of secure, privacy-focused tools from Proton, including email, cloud storage, VPN, and more.
-- [Browsers 🌍](#browsers-): Recommendations for privacy-focused web browsers.
+- [Resources and Tools](#Resources-and-Tools): Tools for improving internet security and privacy.
+  - [DNS 🌐](#dns-): Tools for improving internet security and privacy.
+  - [Proton Products 🔒](#proton-products-): A suite of secure, privacy-focused tools from Proton, including email, cloud storage, VPN, and more.
+  - [Browsers 🌍](#browsers-): Recommendations for privacy-focused web browsers.
 - [Browser Recommendations 🌟](#browser-recommendations-): Recommendations for privacy-focused web browsers.
 - [VPNs 🛡️](#vpns-): Recommendations for privacy-focused VPN services.
 - [Tools and Utilities 🧰](#tools-and-utilities-): Essential tools for ad-blocking, password management, and data security.
@@ -25,6 +26,9 @@ Explore each section to find resources tailored to your privacy needs and tech i
 # Resources and Tools
 
 ## DNS 🌐
+
+**[`^        back to top        ^`](Ultimate-Privacy-Guide-)**
+
 - **NextDNS** 🌐
   Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
   URL: https://nextdns.io/
