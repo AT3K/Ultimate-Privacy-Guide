@@ -10,7 +10,7 @@ Welcome to the Ultimate Privacy Guide! This repository is a comprehensive collec
 - [Browser Recommendations 🌟](#browser-recommendations-): Recommendations for privacy-focused web browsers.
 - [VPNs 🛡️](#vpns-): Recommendations for privacy-focused VPN services.
 - [Tools and Utilities 🧰](#tools-and-utilities-): Essential tools for ad-blocking, password management, and data security.
-- [Hardware 🖥️](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
+- [Hardware 🛒](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
 - [Podcasts and Media 📺](#podcasts-and-media-): Engaging content on cybersecurity and hacking.
 - [Recommended YouTubers 📺](#recommended-youtubers-): Influential creators sharing insights on technology, cybersecurity, and more.
 - [License 📝](#license-): Information about the licensing terms for this repository.
@@ -186,7 +186,7 @@ Feel free to choose based on your specific privacy needs and preferences!
   Handy tool that generates random IDs using a time-based hashing algorithm. Ideal for unique identifier generation in scripts, projects or usernames.  
   URL: https://www.icloud.com/shortcuts/6c8684fc6b3b49fc9ec6606a9064c8b0
 
-## Hardware 🖥️
+## Hardware 🛒
 
 - **Buy a Raspberry Pi** 🥧  
   Ideal for DIY projects, home automation, and learning about computing. A versatile and affordable option for various tech enthusiasts.  
