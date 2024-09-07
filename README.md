@@ -103,7 +103,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
   - ❌ May lack some Firefox features and add-ons due to its customization  
   URL: https://librewolf.net
 
-## VPNs 🛡️
+## VPNs 🔑
 
 - **Proton VPN** 🌐  
   A privacy-focused VPN service that is part of the Proton suite. Known for its strong security features, no-logs policy, and commitment to privacy.  
