@@ -4,14 +4,15 @@ Welcome to the Ultimate Privacy Guide! This repository is a comprehensive collec
 
 ## Contents
 
-- [DNS](#dns-): Tools for improving internet security and privacy.
-- [Proton Products](#proton-products-): A suite of secure, privacy-focused tools from Proton, including email, cloud storage, VPN, and more.
-- [Browsers](#browsers-): Recommendations for privacy-focused web browsers.
-- [Tools and Utilities](#tools-and-utilities-): Essential tools for ad-blocking, password management, and data security.
-- [Hardware](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
-- [Podcasts and Media](#podcasts-and-media-): Engaging content on cybersecurity and hacking.
-- [Recommended YouTubers](#recommended-youtubers-): Influential creators sharing insights on technology, cybersecurity, and more.
-- [License](#license-): Information about the licensing terms for this repository.
+- [DNS 🌐](#dns-): Tools for improving internet security and privacy.
+- [Proton Products 🔒](#proton-products-): A suite of secure, privacy-focused tools from Proton, including email, cloud storage, VPN, and more.
+- [Browsers 🌍](#browsers-): Recommendations for privacy-focused web browsers.
+- [VPNs 🛡️](#vpns-): Recommendations for privacy-focused VPN services.
+- [Tools and Utilities 🧰](#tools-and-utilities-): Essential tools for ad-blocking, password management, and data security.
+- [Hardware 🛒](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
+- [Podcasts and Media 📺](#podcasts-and-media-): Engaging content on cybersecurity and hacking.
+- [Recommended YouTubers 📺](#recommended-youtubers-): Influential creators sharing insights on technology, cybersecurity, and more.
+- [License 📝](#license-): Information about the licensing terms for this repository.
 
 Explore each section to find resources tailored to your privacy needs and tech interests. Stay safe and secure online!
 
@@ -19,9 +20,12 @@ Feel free to contribute by submitting pull requests or issues if you have sugges
 # Resources and Tools
 
 ## DNS 🌐
-- **NextDNS**  
+- **NextDNS** 🌐
   Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
   URL: https://nextdns.io/
+- **AdGuard Home** 🏠  
+  A network-wide ad blocker and privacy tool. Blocks ads, trackers, and provides detailed analytics by filtering DNS requests.  
+  URL: https://adguard.com/en/adguard-home/overview.html  
 
 ## Proton Products 🔒
 Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimited" subscription. You can also sign up for a **Limited FREE Proton Mail** account and then use your Proton Mail credentials to access other Proton services, including **Proton VPN** and more.
@@ -49,17 +53,65 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
   URL: https://simplelogin.io
 
 ## Browsers 🌍
+
 - **Firefox** 🦊  
   Fast, secure, and privacy-respecting web browser developed by Mozilla. Known for its robust security features and support for a variety of privacy-enhancing add-ons.  
+  **Pros**: 
+  - ✅ Highly customizable
+  - ✅ Extensive add-on ecosystem
+  - ✅ Good privacy settings  
+  **Cons**: 
+  - ❌ Not as privacy-focused out of the box
+  - ❌ Requires additional configuration for enhanced privacy  
   URL: https://www.mozilla.org/en-GB/firefox/new/
 
-- **Mercury** 🌟 (Privacy-Hardened Firefox Version - **Recommended**)  
+- **Mercury** 🌟 (Privacy-Hardened Firefox Version)  
   Hardened version of Firefox, optimized for privacy by disabling telemetry, fingerprinting, and other tracking techniques. Ideal for users looking for an extra layer of privacy.  
+  **Pros**: 
+  - ✅ Strong privacy protections out of the box
+  - ✅ Enhanced privacy features compared to standard Firefox  
+  **Cons**: 
+  - ❌ Less mainstream; may not support all Firefox add-ons and features  
   URL: https://thorium.rocks/mercury
 
 - **Mullvad Browser** 🔒 (Even More Privacy-Hardened Firefox)  
   Designed in collaboration with the Tor Project to reduce browser fingerprinting. An even more privacy-conscious version of Firefox, best used with Mullvad VPN.  
+  **Pros**: 
+  - ✅ Reduced fingerprinting
+  - ✅ Good integration with Mullvad VPN  
+  **Cons**: 
+  - ❌ Best used with Mullvad VPN for full benefits
+  - ❌ May have compatibility issues with some websites  
   URL: https://mullvad.net/en/browser
+
+- **Cromite** 🛡️  
+  A privacy-focused Chromium-based browser designed to offer enhanced security and privacy features.  
+  **Pros**: 
+  - ✅ Fast and supports many Chrome extensions
+  - ✅ Focuses on privacy improvements  
+  **Cons**: 
+  - ❌ Chromium’s base code may not be as privacy-focused as Firefox
+  - ❌ Relies on Chromium’s privacy settings  
+  URL: https://github.com/uazo/cromite
+
+- **LibreWolf** 🔐  
+  A privacy-focused fork of Firefox with additional security and privacy features. It aims to provide a more secure and private browsing experience.  
+  **Pros**: 
+  - ✅ Enhanced privacy and security features
+  - ✅ No telemetry  
+  **Cons**: 
+  - ❌ May lack some Firefox features and add-ons due to its customization  
+  URL: https://librewolf.net
+
+## VPNs 🛡️
+
+- **Proton VPN** 🌐  
+  A privacy-focused VPN service that is part of the Proton suite. Known for its strong security features, no-logs policy, and commitment to privacy.  
+  URL: https://protonvpn.com
+
+- **Mullvad VPN** 🔒  
+  A VPN service known for its strong privacy and security features, with a focus on anonymity. Offers a high level of transparency and does not require personal information to sign up.  
+  URL: https://mullvad.net/en/
 
 ## Tools and Utilities 🧰
 - **uBlock Origin (Ad-Blocker)** 🚫  
@@ -91,7 +143,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
   URL: https://thepihut.com
 
 ## Podcasts and Media 📺
-- **The Lazarus Heist (Season 1 & 2)**  
+- **The Lazarus Heist (Season 1 & 2)** 🎬
   A thrilling podcast from the BBC World Service covering the story of the Lazarus Group—hackers with alleged ties to North Korea. Season 1 begins with "Hacking Hollywood".  
   URL: https://youtube.com/playlist?list=PLz_B0PFGIn4ccgXclIq9gdmf_nFNz-Og8
 
