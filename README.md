@@ -17,6 +17,7 @@ Dive into the sections below to discover tools and services that can help you ac
   - [Browsers 🌍](#browsers-): Recommendations for privacy-focused web browsers.
 - [Browser Recommendations 🌟](#browser-recommendations-): Recommendations for privacy-focused web browsers.
 - [VPNs 🛡️](#vpns-): Recommendations for privacy-focused VPN services.
+- [Secure Messaging Platforms 🔐](#secure-messaging-platforms-): Recommendations for secure messaging platforms.
 - [Tools and Utilities 🧰](#tools-and-utilities-): Essential tools for ad-blocking, password management, and data security.
 - [Hardware 🛒](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
 - [Podcasts and Media 📺](#podcasts-and-media-): Engaging content on cybersecurity and hacking.
@@ -176,6 +177,22 @@ Feel free to choose based on your specific privacy needs and preferences!
 - **Mullvad VPN** 🔒  
   A VPN service known for its strong privacy and security features, with a focus on anonymity. Offers a high level of transparency and does not require personal information to sign up.  
   URL: https://mullvad.net/en/
+
+## Secure Messaging Platforms 🔐
+
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
+- **Threema** 🛡️
+A privacy-focused messaging app based in Switzerland, offering end-to-end encryption and anonymous use without requiring a phone number or email.
+URL : https://threema.ch
+
+- **Session** 🔑
+A decentralized messaging platform with end-to-end encryption and no need for a phone number or email, ensuring high privacy and anonymity.  
+URL : https://getsession.org
+
+- **Signal** 📱
+A secure messaging app with end-to-end encryption and a simple, user-friendly design, offering privacy-focused messaging and calls.  
+URL : https://signal.org
 
 ## Tools and Utilities 🧰
 
