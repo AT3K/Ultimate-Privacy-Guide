@@ -25,13 +25,13 @@ Explore each section to find resources tailored to your privacy needs and tech i
 
 # Resources and Tools
 
-## DNS 🌐
-
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
 
+## DNS 🌐
+
 - **NextDNS** 🌐
-  Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
-  URL: https://nextdns.io/
+Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
+URL: https://nextdns.io/
 - **AdGuard Home** 🏠  
   A network-wide ad blocker and privacy tool. Blocks ads, trackers, and provides detailed analytics by filtering DNS requests.  
   URL: https://adguard.com/en/adguard-home/overview.html  
@@ -143,6 +143,8 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
  
 ## Browser Recommendations 🌟
 
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
 - **For General Privacy**:  
   Use **Firefox** 🦊 for a well-rounded, privacy-focused browser experience with strong security features and extensive customization options.
 
@@ -162,6 +164,8 @@ Feel free to choose based on your specific privacy needs and preferences!
 
 ## VPNs 🔑
 
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
 - **Proton VPN** 🌐  
   A privacy-focused VPN service that is part of the Proton suite. Known for its strong security features, no-logs policy, and commitment to privacy.  
   URL: https://protonvpn.com
@@ -171,6 +175,9 @@ Feel free to choose based on your specific privacy needs and preferences!
   URL: https://mullvad.net/en/
 
 ## Tools and Utilities 🧰
+
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
 - **uBlock Origin (Ad-Blocker)** 🚫  
   Lightweight, efficient ad blocker that helps improve browsing speed and protect against malware. Highly configurable, it blocks ads, trackers, and scripts by default.   URL: https://ublockorigin.com/
 
@@ -196,6 +203,8 @@ Feel free to choose based on your specific privacy needs and preferences!
 
 ## Hardware 🛒
 
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
 - **Buy a Raspberry Pi** 🥧  
   Ideal for DIY projects, home automation, and learning about computing. A versatile and affordable option for various tech enthusiasts.  
   URL: https://thepihut.com
@@ -205,11 +214,17 @@ Feel free to choose based on your specific privacy needs and preferences!
   URL: https://eu.protectli.com
 
 ## Podcasts and Media 📺
+
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
 - **The Lazarus Heist (Season 1 & 2)** 🎬
   A thrilling podcast from the BBC World Service covering the story of the Lazarus Group—hackers with alleged ties to North Korea. Season 1 begins with "Hacking Hollywood".  
   URL: https://youtube.com/playlist?list=PLz_B0PFGIn4ccgXclIq9gdmf_nFNz-Og8
 
 ## Recommended YouTubers 📺
+
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
 - **Network Chuck** 🎥  
   Popular YouTuber focusing on networking, cybersecurity, and ethical hacking. Great for learning IT skills and staying updated on the latest security practices.  
   URL: https://www.youtube.com/@NetworkChuck
@@ -227,5 +242,7 @@ Feel free to choose based on your specific privacy needs and preferences!
   URL: https://www.youtube.com/@TechnoTim
 
 ## License 📝
+
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
 
 This repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This means you are free to use, modify, and distribute the content, as long as you provide appropriate credit to the original creator.
