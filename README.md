@@ -2,7 +2,10 @@
 
 Welcome to the Ultimate Privacy Guide! This repository is a comprehensive collection of resources, tools, and recommendations designed to help you enhance your online privacy and security. Whether you're looking to secure your internet connection, protect your personal information, or explore the latest privacy-focused technologies, you'll find valuable links and information here.
 
-## Contents
+> [!NOTE]
+> Feel free to contribute by submitting pull requests or issues if you have suggestions for additional resources.
+
+## Table of Contents
 
 - [DNS 🌐](#dns-): Tools for improving internet security and privacy.
 - [Proton Products 🔒](#proton-products-): A suite of secure, privacy-focused tools from Proton, including email, cloud storage, VPN, and more.
@@ -17,7 +20,6 @@ Welcome to the Ultimate Privacy Guide! This repository is a comprehensive collec
 
 Explore each section to find resources tailored to your privacy needs and tech interests. Stay safe and secure online!
 
-Feel free to contribute by submitting pull requests or issues if you have suggestions for additional resources.
 # Resources and Tools
 
 ## DNS 🌐
