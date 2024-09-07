@@ -4,26 +4,26 @@ Welcome to the Ultimate Privacy Guide! This repository is a comprehensive collec
 
 ## Contents
 
-- [DNS](#-dns): Tools for improving internet security and privacy.
-- [Proton Products](#-proton-products): A suite of secure, privacy-focused tools from Proton, including email, cloud storage, VPN, and more.
-- [Browsers](#-browsers): Recommendations for privacy-focused web browsers.
-- [Tools and Utilities](#-tools-and-utilities): Essential tools for ad-blocking, password management, and data security.
-- [Hardware](#-hardware): Where to buy Raspberry Pi for DIY projects and home automation.
-- [Podcasts and Media](#-podcasts-and-media): Engaging content on cybersecurity and hacking.
-- [Recommended YouTubers](#-recommended-youtubers): Influential creators sharing insights on technology, cybersecurity, and more.
-- [License](#-license): Information about the licensing terms for this repository.
+- [DNS](#dns-): Tools for improving internet security and privacy.
+- [Proton Products](#proton-products-): A suite of secure, privacy-focused tools from Proton, including email, cloud storage, VPN, and more.
+- [Browsers](#browsers-): Recommendations for privacy-focused web browsers.
+- [Tools and Utilities](#tools-and-utilities-): Essential tools for ad-blocking, password management, and data security.
+- [Hardware](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
+- [Podcasts and Media](#podcasts-and-media-): Engaging content on cybersecurity and hacking.
+- [Recommended YouTubers](#recommended-youtubers-): Influential creators sharing insights on technology, cybersecurity, and more.
+- [License](#license-): Information about the licensing terms for this repository.
 
 Explore each section to find resources tailored to your privacy needs and tech interests. Stay safe and secure online!
 
 Feel free to contribute by submitting pull requests or issues if you have suggestions for additional resources.
 # Resources and Tools
 
-## 🌐 DNS
+## DNS 🌐
 - **NextDNS**  
   Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
   URL: https://nextdns.io/
 
-## 🔒 Proton Products
+## Proton Products 🔒
 Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimited" subscription. You can also sign up for a **Limited FREE Proton Mail** account and then use your Proton Mail credentials to access other Proton services, including **Proton VPN** and more.
 
 - **Proton Mail** ✉️  
@@ -48,7 +48,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
   Alias email service that protects your primary email address by creating burner addresses, useful for sign-ups and avoiding spam.  
   URL: https://simplelogin.io
 
-## 🌍 Browsers
+## Browsers 🌍
 - **Firefox** 🦊  
   Fast, secure, and privacy-respecting web browser developed by Mozilla. Known for its robust security features and support for a variety of privacy-enhancing add-ons.  
   URL: https://www.mozilla.org/en-GB/firefox/new/
@@ -61,7 +61,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
   Designed in collaboration with the Tor Project to reduce browser fingerprinting. An even more privacy-conscious version of Firefox, best used with Mullvad VPN.  
   URL: https://mullvad.net/en/browser
 
-## 🧰 Tools and Utilities
+## Tools and Utilities 🧰
 - **uBlock Origin (Ad-Blocker)** 🚫  
   Lightweight, efficient ad blocker that helps improve browsing speed and protect against malware. Highly configurable, it blocks ads, trackers, and scripts by default.   URL: https://ublockorigin.com/
 
@@ -85,17 +85,17 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
   Handy tool that generates random IDs using a time-based hashing algorithm. Ideal for unique identifier generation in scripts, projects or usernames.  
   URL: https://www.icloud.com/shortcuts/6c8684fc6b3b49fc9ec6606a9064c8b0
 
-## 🛒 Hardware
+## Hardware 🛒
 - **Buy a Raspberry Pi** 🍓  
   Purchase Raspberry Pi boards and accessories, a versatile, low-cost computer ideal for DIY electronics projects, home automation, or network security setups.  
   URL: https://thepihut.com
 
-## 📺 Podcasts and Media
+## Podcasts and Media 🎙️
 - **The Lazarus Heist (Season 1 & 2)**  
   A thrilling podcast from the BBC World Service covering the story of the Lazarus Group—hackers with alleged ties to North Korea. Season 1 begins with "Hacking Hollywood".  
   URL: https://youtube.com/playlist?list=PLz_B0PFGIn4ccgXclIq9gdmf_nFNz-Og8
 
-## 📺 Recommended YouTubers
+## Recommended YouTubers 📺
 - **Network Chuck** 🎥  
   Popular YouTuber focusing on networking, cybersecurity, and ethical hacking. Great for learning IT skills and staying updated on the latest security practices.  
   URL: https://www.youtube.com/@NetworkChuck
@@ -112,6 +112,6 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
   Focuses on self-hosting, networking, and automation. His tutorials are well-structured and great for users interested in setting up their own servers and networks.  
   URL: https://www.youtube.com/@TechnoTim
 
-## 📝 License
+## License 📝
 
 This repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This means you are free to use, modify, and distribute the content, as long as you provide appropriate credit to the original creator.
