@@ -27,7 +27,7 @@ Explore each section to find resources tailored to your privacy needs and tech i
 
 ## DNS 🌐
 
-**[`^        back to top        ^`](Ultimate-Privacy-Guide-)**
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
 
 - **NextDNS** 🌐
   Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
