@@ -21,7 +21,7 @@ Dive into the sections below to discover tools and services that can help you ac
 - [Hardware 🛒](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
 - [Podcasts and Media 📺](#podcasts-and-media-): Engaging content on cybersecurity and hacking.
 - [Recommended YouTubers 📺](#recommended-youtubers-): Influential creators sharing insights on technology, cybersecurity, and more.
-- [Thesaurus for Non-Techies](#thesaurus-for-non--techies-): Definitions of common tech and privacy terms for beginners.
+- [Thesaurus for Non-Techies](#thesaurus-for-non-techies-): Definitions of common tech and privacy terms for beginners.
 - [License 📝](#license-): Information about the licensing terms for this repository.
 
 Explore each section to find resources tailored to your privacy needs and tech interests. Stay safe and secure online!
