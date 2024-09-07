@@ -4,13 +4,14 @@ Welcome to the Ultimate Privacy Guide! This repository is a comprehensive collec
 
 ## Contents
 
-- [DNS](#-DNS): Tools for improving internet security and privacy.
+- [DNS](#-dns): Tools for improving internet security and privacy.
 - [Proton Products](#-proton-products): A suite of secure, privacy-focused tools from Proton, including email, cloud storage, VPN, and more.
 - [Browsers](#-browsers): Recommendations for privacy-focused web browsers.
 - [Tools and Utilities](#-tools-and-utilities): Essential tools for ad-blocking, password management, and data security.
 - [Hardware](#-hardware): Where to buy Raspberry Pi for DIY projects and home automation.
 - [Podcasts and Media](#-podcasts-and-media): Engaging content on cybersecurity and hacking.
 - [Recommended YouTubers](#-recommended-youtubers): Influential creators sharing insights on technology, cybersecurity, and more.
+- [License](#-license): Information about the licensing terms for this repository.
 
 Explore each section to find resources tailored to your privacy needs and tech interests. Stay safe and secure online!
 
@@ -110,3 +111,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
 - **Techno Tim** 🖥️  
   Focuses on self-hosting, networking, and automation. His tutorials are well-structured and great for users interested in setting up their own servers and networks.  
   URL: https://www.youtube.com/@TechnoTim
+
+## 📝 License
+
+This repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This means you are free to use, modify, and distribute the content, as long as you provide appropriate credit to the original creator.
