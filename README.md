@@ -90,7 +90,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
   Purchase Raspberry Pi boards and accessories, a versatile, low-cost computer ideal for DIY electronics projects, home automation, or network security setups.  
   URL: https://thepihut.com
 
-## Podcasts and Media 🎙️
+## Podcasts and Media 📺
 - **The Lazarus Heist (Season 1 & 2)**  
   A thrilling podcast from the BBC World Service covering the story of the Lazarus Group—hackers with alleged ties to North Korea. Season 1 begins with "Hacking Hollywood".  
   URL: https://youtube.com/playlist?list=PLz_B0PFGIn4ccgXclIq9gdmf_nFNz-Og8
