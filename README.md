@@ -201,7 +201,8 @@ Feel free to choose based on your specific privacy needs and preferences!
   URL: https://bitwarden.com
 
 - **Time Hash Code (THC v1.0.1)** ⏳  
-  Handy tool that generates random IDs using a time-based hashing algorithm. Ideal for unique identifier generation in scripts, projects or usernames.  
+  Handy tool that generates random IDs using a time-based hashing algorithm. Ideal for unique identifier generation in scripts, projects, or usernames.  
+  **Note**: This tool is available as a Siri Shortcut, which can be added and used on Apple devices with the Shortcuts app.  
   URL: https://www.icloud.com/shortcuts/6c8684fc6b3b49fc9ec6606a9064c8b0
 
 ## Hardware 🛒
