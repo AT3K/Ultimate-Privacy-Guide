@@ -19,6 +19,7 @@ Dive into the sections below to discover tools and services that can help you ac
 - [VPNs 🛡️](#vpns-): Recommendations for privacy-focused VPN services.
 - [Secure Messaging Platforms 🔐](#secure-messaging-platforms-): Recommendations for secure messaging platforms.
 - [Secure OS's 🛡️](#secure-oss-): Recommendations for security-focused operating systems.
+- [AI 🤖](#ai-): AI tools like Ollama and GPT4All for private and offline use.
 - [Tools and Utilities 🧰](#tools-and-utilities-): Essential tools for ad-blocking, password management, and data security.
 - [Hardware 🛒](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
 - [Podcasts and Media 📺](#podcasts-and-media-): Engaging content on cybersecurity and hacking.
@@ -210,6 +211,18 @@ URL : https://signal.org
 - **Whonix** 🔒  
   A privacy-focused operating system based on Tor, designed to provide advanced security by isolating internet traffic within a separate virtual machine, ensuring strong anonymity.  
   URL: https://www.whonix.org/
+
+## AI 🤖
+
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
+- **Ollama**  
+  Ollama provides an easy-to-use platform for running large language models locally on your device. It is privacy-focused, allowing users to run models without relying on cloud-based services. Ollama also has a GitHub repository with various resources, and users can explore web app wrappers to enhance their experience.  
+  GitHub: https://github.com/jmorganca/ollama
+
+- **GPT4All**  
+  GPT4All is an open-source initiative that enables users to run powerful language models on their own machines without the need for cloud access. It is designed for privacy and versatility, allowing individuals to fine-tune and use large-scale models for various tasks offline.  
+  URL: https://gpt4all.io/
 
 ## Tools and Utilities 🧰
 
