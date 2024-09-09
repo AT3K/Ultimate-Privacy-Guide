@@ -18,6 +18,7 @@ Dive into the sections below to discover tools and services that can help you ac
 - [Browser Recommendations 🌟](#browser-recommendations-): Recommendations for privacy-focused web browsers.
 - [VPNs 🛡️](#vpns-): Recommendations for privacy-focused VPN services.
 - [Secure Messaging Platforms 🔐](#secure-messaging-platforms-): Recommendations for secure messaging platforms.
+- [Secure OS's 🛡️](#secure-oss-): Recommendations for security-focused operating systems.
 - [Tools and Utilities 🧰](#tools-and-utilities-): Essential tools for ad-blocking, password management, and data security.
 - [Hardware 🛒](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
 - [Podcasts and Media 📺](#podcasts-and-media-): Engaging content on cybersecurity and hacking.
@@ -193,6 +194,22 @@ URL : https://getsession.org
 - **Signal** 📱
 A secure messaging app with end-to-end encryption and a simple, user-friendly design, offering privacy-focused messaging and calls.  
 URL : https://signal.org
+
+## Secure OS's 🛡️
+
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
+- **Tails OS** 🖥️  
+  A security-focused, Debian-based Linux distribution aimed at preserving privacy and anonymity. Tails routes all its internet traffic through the Tor network and leaves no traces on the machine unless explicitly told to do so.  
+  URL: https://tails.boum.org/
+
+- **Qubes OS** 🛡️  
+  A highly secure operating system designed for strong security through isolation, based on the Xen hypervisor. It compartmentalizes applications into isolated virtual machines, reducing the attack surface.  
+  URL: https://www.qubes-os.org/
+
+- **Whonix** 🔒  
+  A privacy-focused operating system based on Tor, designed to provide advanced security by isolating internet traffic within a separate virtual machine, ensuring strong anonymity.  
+  URL: https://www.whonix.org/
 
 ## Tools and Utilities 🧰
 
