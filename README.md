@@ -18,7 +18,7 @@ Dive into the sections below to discover tools and services that can help you ac
 - [Browser Recommendations 🌟](#browser-recommendations-): Recommendations for privacy-focused web browsers.
 - [VPNs 🛡️](#vpns-): Recommendations for privacy-focused VPN services.
 - [Secure Messaging Platforms 🔐](#secure-messaging-platforms-): Recommendations for secure messaging platforms.
-- [Secure OS's 🛡️](#secure-oss-): Recommendations for security-focused operating systems.
+- [Secure OS's 🛡️](#secure-os-): Recommendations for security-focused operating systems.
 - [AI 🤖](#ai-): AI tools like Ollama and GPT4All for private and offline use.
 - [Tools and Utilities 🧰](#tools-and-utilities-): Essential tools for ad-blocking, password management, and data security.
 - [Hardware 🛒](#hardware-): Where to buy Raspberry Pi for DIY projects and home automation.
@@ -196,7 +196,7 @@ URL : https://getsession.org
 A secure messaging app with end-to-end encryption and a simple, user-friendly design, offering privacy-focused messaging and calls.  
 URL : https://signal.org
 
-## Secure OS's 🛡
+## Secure OS 🛡
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
 
