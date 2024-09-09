@@ -196,7 +196,7 @@ URL : https://getsession.org
 A secure messaging app with end-to-end encryption and a simple, user-friendly design, offering privacy-focused messaging and calls.  
 URL : https://signal.org
 
-## Secure OS's 🛡️
+## Secure OS's 🛡
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
 
