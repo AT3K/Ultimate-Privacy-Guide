@@ -35,17 +35,17 @@ Explore each section to find resources tailored to your privacy needs and tech i
 
 ## DNS 🌐
 
-- **NextDNS** 🌐
-Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
+- **NextDNS** 🌐  
+  Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
 URL: https://nextdns.io/
-- **AdGuard Home** 🏠
-A network-wide ad blocker and privacy tool. Blocks ads, trackers, and provides detailed analytics by filtering DNS requests.  
+- **AdGuard Home** 🏠  
+  A network-wide ad blocker and privacy tool. Blocks ads, trackers, and provides detailed analytics by filtering DNS requests.  
 URL: https://adguard.com/en/adguard-home/overview.html  
 
 ## Proton Products 🔒
 Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimited" subscription. You can also sign up for a **Limited FREE Proton Mail** account and then use your Proton Mail credentials to access other Proton services, including **Proton VPN** and more.
 
-- **Proton Mail** ✉️  
+- **Proton Mail** ✉️. 
   Encrypted email service that ensures privacy and security. Built by scientists from CERN, Proton Mail offers end-to-end encryption and is a leader in email security.  
   URL: https://proton.me/mail
 - **Proton Drive** 💾  
