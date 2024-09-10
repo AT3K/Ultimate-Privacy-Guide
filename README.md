@@ -36,8 +36,8 @@ Explore each section to find resources tailored to your privacy needs and tech i
 ## DNS 🌐
 
 - **NextDNS** 🌐
-Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
-URL: https://nextdns.io/
+  Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
+  URL: https://nextdns.io/
 - **AdGuard Home** 🏠  
   A network-wide ad blocker and privacy tool. Blocks ads, trackers, and provides detailed analytics by filtering DNS requests.  
   URL: https://adguard.com/en/adguard-home/overview.html  
