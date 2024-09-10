@@ -169,7 +169,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
 
 Feel free to choose based on your specific privacy needs and preferences!
 
-## Browser Extensions 🛡️
+## Browser Extensions 🛡
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
 
