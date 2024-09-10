@@ -178,7 +178,8 @@ Enhance your browser's privacy and functionality with these recommended extensio
 
 - **uBlock Origin** ✋  
   A highly efficient ad and tracker blocker that reduces page load times and blocks unwanted content, keeping your browsing fast and private.  
-  URL : https://github.com/gorhill/uBlock
+  URL : https://github.com/gorhill/uBlock  
+  See [Tools and Utilities 🧰](#tools-and-utilities-) for the setup guide.
 
 - **SponsorBlock** ⏩  
   Automatically skips sponsored segments in YouTube videos, allowing you to enjoy content without interruptions.  
@@ -263,9 +264,6 @@ URL : https://signal.org
 ## Tools and Utilities 🧰
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
-
-- **uBlock Origin (Ad-Blocker)** 🚫  
-  Lightweight, efficient ad blocker that helps improve browsing speed and protect against malware. Highly configurable, it blocks ads, trackers, and scripts by default.   URL: https://ublockorigin.com/
 
 - **uBlock Origin Setup Guide** 🛠️ (Follow "Enhanced and Pro" instructions)  
   Detailed guide for configuring uBlock Origin to achieve maximum privacy and ad-blocking capabilities. Follow the "Enhanced and Pro" recommendations to fine-tune your setup.  
