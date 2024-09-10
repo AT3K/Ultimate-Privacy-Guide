@@ -28,8 +28,6 @@ Dive into the sections below to discover tools and services that can help you ac
 - [Thesaurus for Non-Techies](#thesaurus-for-non-techies-): Definitions of common tech and privacy terms for beginners.
 - [License 📝](#license-): Information about the licensing terms for this repository.
 
-Explore each section to find resources tailored to your privacy needs and tech interests. Stay safe and secure online!
-
 # Resources and Tools
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
@@ -167,17 +165,16 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
 - **For a Privacy-Focused Alternative to Firefox**:  
   **LibreWolf** 🐺 is a great choice for those who want a Firefox-like experience without telemetry and data collection.
 
-Feel free to choose based on your specific privacy needs and preferences!
-
 ## Browser Extensions 🛡
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
 
 Enhance your browser's privacy and functionality with these recommended extensions:
 
-- **Privacy Badger** 🦡  
-  Automatically blocks invisible trackers and helps protect you from companies that track your browsing habits. Developed by the EFF.  
-  URL : https://www.eff.org/privacybadger
+> [!NOTE]
+> - **Privacy Badger** and **Decentraleyes** are not needed in **Firefox** or its forks (including **LibreWolf**, which has **ETP** enabled by default) unless you have **ETP** disabled. To avoid using these extensions, ensure that **ETP (Enhanced Tracking Protection)** is enabled. They are also not needed in **Cromite** due to its custom cookie isolation settings.
+> 
+> - **Cookie AutoDelete** is not necessary in **Chromium-based browsers on Windows** if you have the **"Clear site data on close"** setting enabled, nor in **LibreWolf**, as it clears site data by default. To avoid using this extension in other browsers, enable the **"Clear site data on close"** setting.
 
 - **uBlock Origin** ✋  
   A highly efficient ad and tracker blocker that reduces page load times and blocks unwanted content, keeping your browsing fast and private.  
@@ -186,24 +183,26 @@ Enhance your browser's privacy and functionality with these recommended extensio
 - **SponsorBlock** ⏩  
   Automatically skips sponsored segments in YouTube videos, allowing you to enjoy content without interruptions.  
   URL : https://sponsor.ajay.app/
-
-- **Decentraleyes** 🛠️  
-  Prevents tracking through content delivery networks (CDNs) by locally emulating commonly used web libraries, boosting privacy without breaking sites.  
-  URL : https://decentraleyes.org/
   
 - **CanvasBlocker** 🎨  
   Prevents websites from tracking you using canvas fingerprinting, a technique to uniquely identify and track your device.  
   URL : https://github.com/kkapsner/CanvasBlocker
 
-- **Cookie AutoDelete** 🍪  
-  Automatically deletes cookies from closed tabs, reducing the chance of being tracked across the web. Customizable to retain important cookies.  
-  URL : https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
-
 - **ClearURLs** 🔗  
   Strips tracking elements from URLs, preventing companies from tracking your clicks and improving privacy.  
   URL : https://github.com/ClearURLs/Addon
 
-These extensions will help improve your browsing experience while maintaining your privacy and security.
+- **Privacy Badger** 🦡 [❗️**READ NOTE**❗️]  
+  Automatically blocks invisible trackers and helps protect you from companies that track your browsing habits. Developed by the EFF.  
+  URL : https://www.eff.org/privacybadger
+
+- **Decentraleyes** 🛠️ [❗️**READ NOTE**❗️]  
+  Prevents tracking through content delivery networks (CDNs) by locally emulating commonly used web libraries, boosting privacy without breaking sites.  
+  URL : https://decentraleyes.org/
+
+- **Cookie AutoDelete** 🍪 [❗️**READ NOTE**❗️]  
+  Automatically deletes cookies from closed tabs, reducing the chance of being tracked across the web. Customizable to retain important cookies.  
+  URL : https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
 
 ## VPNs 🔑
 
