@@ -16,6 +16,7 @@ Dive into the sections below to discover tools and services that can help you ac
   - [Proton Products 🔒](#proton-products-): A suite of secure, privacy-focused tools from Proton, including email, cloud storage, VPN, and more.
   - [Browsers 🌍](#browsers-): Recommendations for privacy-focused web browsers.
 - [Browser Recommendations 🌟](#browser-recommendations-): Recommendations for privacy-focused web browsers.
+- [Browser Extensions 🛡️](#browser-extensions-): Essential extensions to enhance your browser's privacy and security.
 - [VPNs 🛡️](#vpns-): Recommendations for privacy-focused VPN services.
 - [Secure Messaging Platforms 🔐](#secure-messaging-platforms-): Recommendations for secure messaging platforms.
 - [Secure OS's 🛡️](#secure-oss-): Recommendations for security-focused operating systems.
@@ -167,6 +168,42 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
   **LibreWolf** 🐺 is a great choice for those who want a Firefox-like experience without telemetry and data collection.
 
 Feel free to choose based on your specific privacy needs and preferences!
+
+## Browser Extensions 🛡️
+
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
+Enhance your browser's privacy and functionality with these recommended extensions:
+
+- **Privacy Badger** 🦡  
+  Automatically blocks invisible trackers and helps protect you from companies that track your browsing habits. Developed by the EFF.  
+  URL : https://www.eff.org/privacybadger
+
+- **uBlock Origin** ✋  
+  A highly efficient ad and tracker blocker that reduces page load times and blocks unwanted content, keeping your browsing fast and private.  
+  URL : https://github.com/gorhill/uBlock
+
+- **SponsorBlock** ⏩  
+  Automatically skips sponsored segments in YouTube videos, allowing you to enjoy content without interruptions.  
+  URL : https://sponsor.ajay.app/
+
+- **Decentraleyes** 🛠️  
+  Prevents tracking through content delivery networks (CDNs) by locally emulating commonly used web libraries, boosting privacy without breaking sites.  
+  URL : https://decentraleyes.org/
+  
+- **CanvasBlocker** 🎨  
+  Prevents websites from tracking you using canvas fingerprinting, a technique to uniquely identify and track your device.  
+  URL : https://github.com/kkapsner/CanvasBlocker
+
+- **Cookie AutoDelete** 🍪  
+  Automatically deletes cookies from closed tabs, reducing the chance of being tracked across the web. Customizable to retain important cookies.  
+  URL : https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
+
+- **ClearURLs** 🔗  
+  Strips tracking elements from URLs, preventing companies from tracking your clicks and improving privacy.  
+  URL : https://github.com/ClearURLs/Addon
+
+These extensions will help improve your browsing experience while maintaining your privacy and security.
 
 ## VPNs 🔑
 
