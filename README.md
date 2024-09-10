@@ -265,7 +265,7 @@ URL : https://signal.org
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
 
-- **uBlock Origin Setup Guide** 🛠️ (Follow "Enhanced and Pro" instructions)  
+- **uBlock Origin Setup Guide** 🛠️ (Follow "Recommended, Enhanced and Pro" instructions for optimal setup.)  
   Detailed guide for configuring uBlock Origin to achieve maximum privacy and ad-blocking capabilities. Follow the "Enhanced and Pro" recommendations to fine-tune your setup.  
   URL: https://github.com/yokoffing/filterlists
 
