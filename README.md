@@ -16,13 +16,13 @@ Dive into the sections below to discover tools and services that can help you ac
   - [Browsers 🌍](#browsers-): Recommendations for privacy-focused web browsers.
 - [Browser Recommendations 🌟](#browser-recommendations-): Recommendations for privacy-focused web browsers.
 - [Browser Extensions 🛡️](#browser-extensions-): Essential extensions to enhance your browser's privacy and security.
-- [Mail Providers ✉️](#mail-providers-): Recommendations for privacy-focused mail services.
+- [Mail Providers 📧](#mail-providers-): Recommendations for privacy-focused mail services.
 - [VPNs 🛡️](#vpns-): Recommendations for privacy-focused VPN services.
 - [Cloud Storage Providers ☁️](cloud-storage-providers-): Recommendations for privacy-focused cloud storage solutions.
 - [Calendar 📅](#calendars-): Recommendations for privacy-focused calendar services.
 - [Password Managers 🔑](#password-managers-): Recommendations for zero-knowledge and open-source password management solutions.
 - [Wallet Providers 🪙](#wallet-providers-): Recommendations for secure and privacy-focused cryptocurrency wallets.
-- [Alias Email Services ✉️](#alias-email-services-): Recommendations for zero-knowledge email alias services.
+- [Alias Email Services 📧](#alias-email-services-): Recommendations for zero-knowledge email alias services.
 - [Secure Messaging Platforms 🔐](#secure-messaging-platforms-): Recommendations for secure messaging platforms.
 - [Secure OS's 🛡️](#secure-oss-): Recommendations for security-focused operating systems.
 - [AI 🤖](#ai-): AI tools like Ollama and GPT4All for private and offline use.
@@ -161,7 +161,7 @@ Enhance your browser's privacy and functionality with these recommended extensio
 >
 > - **Cookie AutoDelete** is not necessary in **Chromium-based browsers on Windows** if you have the **"Clear site data on close"** setting enabled, nor in **LibreWolf**, as it clears site data by default. To avoid using this extension in other browsers, enable the **"Clear site data on close"** setting.
 
-- **uBlock Origin** ✋  
+- **uBlock Origin** ✋
   A highly efficient ad and tracker blocker that reduces page load times and blocks unwanted content, keeping your browsing fast and private.  
   URL : <https://github.com/gorhill/uBlock>  
   See [Tools and Utilities 🧰](#tools-and-utilities-) for the setup guide.
@@ -362,7 +362,7 @@ Enhance your browser's privacy and functionality with these recommended extensio
   Another leading hardware wallet provider that emphasizes security. Ledger wallets store your private keys offline and support a wide range of cryptocurrencies, providing a secure way to manage your assets.  
   URL: <https://www.ledger.com/>
 
-## Alias Email Services ✉️
+## Alias Email Services 📧
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
 
