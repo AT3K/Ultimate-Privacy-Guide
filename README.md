@@ -40,15 +40,19 @@ Dive into the sections below to discover tools and services that can help you ac
 
 - **NextDNS** 🌐  
   Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
-URL: <https://nextdns.io>
+  URL: <https://nextdns.io>
 
 - **AdGuard Home** 🏠  
   A network-wide ad blocker and privacy tool. Blocks ads, trackers, and provides detailed analytics by filtering DNS requests.  
-URL: <https://adguard.com/en/adguard-home/overview.html>
+  URL: <https://adguard.com/en/adguard-home/overview.html>
 
 - **Quad9** 🔒  
   A free service that blocks malicious domains to protect against threats like malware, phishing, and spyware, while ensuring privacy and improving performance. Operated by the Swiss-based Quad9 Foundation.  
-URL: <https://www.quad9.net>
+  URL: <https://www.quad9.net>
+
+- **Pi-hole** 🕳️  
+  A network-wide ad blocker that acts as a DNS sinkhole, blocking unwanted content and advertisements at the network level. It helps improve browsing speed and protects user privacy by preventing trackers from loading.  
+  URL: <https://pi-hole.net>
 
 ## Browsers 🌍
 
