@@ -218,6 +218,10 @@ Enhance your browser's privacy and functionality with these recommended extensio
   An environmentally-friendly email provider based in Germany that offers secure, ad-free email with a strong commitment to privacy. Posteo does not store user data in a way that allows it to access your emails.  
   URL: <https://posteo.de/en>
 
+- **Mailbox.org** 📦  
+  A secure and privacy-focused email provider that offers features like end-to-end encryption, calendar, and cloud storage. Mailbox.org is committed to data protection and does not display ads or sell user data.  
+  URL: <https://mailbox.org/>
+
 - **CounterMail** 🔒  
   A secure email service that provides end-to-end encryption and focuses on privacy. CounterMail utilizes strong encryption techniques and offers unique security features, including USB key authentication, ensuring zero knowledge of user data.  
   URL: <https://countermail.com/>
