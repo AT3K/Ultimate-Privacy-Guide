@@ -41,6 +41,10 @@ URL: https://nextdns.io/
   A network-wide ad blocker and privacy tool. Blocks ads, trackers, and provides detailed analytics by filtering DNS requests.  
 URL: https://adguard.com/en/adguard-home/overview.html  
 
+- **Quad9** 🔒
+A free service that blocks malicious domains to protect against threats like malware, phishing, and spyware, while ensuring privacy and improving performance. Operated by the Swiss-based Quad9 Foundation.
+URL: https://www.quad9.net/
+
 ## Proton Products 🔒
 Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimited" subscription. You can also sign up for a **Limited FREE Proton Mail** account and then use your Proton Mail credentials to access other Proton services, including **Proton VPN** and more.
 
