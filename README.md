@@ -11,7 +11,7 @@ Dive into the sections below to discover tools and services that can help you ac
 
 ## Table of Contents
 
-- [Resources and Tools](#Resources-and-Tools): Tools for improving internet security and privacy.
+- [Resources and Tools](#resources-and-tools): Tools for improving internet security and privacy.
   - [DNS 🌐](#dns-): Tools for improving internet security and privacy.
   - [Proton Products 🔒](#proton-products-): A suite of secure, privacy-focused tools from Proton, including email, cloud storage, VPN, and more.
   - [Browsers 🌍](#browsers-): Recommendations for privacy-focused web browsers.
@@ -36,41 +36,46 @@ Dive into the sections below to discover tools and services that can help you ac
 
 - **NextDNS** 🌐  
   Provides enhanced security and privacy features for your internet connection, offering advanced DNS filtering, encryption, and analytics. It’s a great tool for blocking ads, trackers, and malicious sites.  
-URL: https://nextdns.io/
+URL: <https://nextdns.io/>
 - **AdGuard Home** 🏠  
   A network-wide ad blocker and privacy tool. Blocks ads, trackers, and provides detailed analytics by filtering DNS requests.  
-URL: https://adguard.com/en/adguard-home/overview.html  
+URL: <https://adguard.com/en/adguard-home/overview.html>  
+
+- **Quad9** 🔒
+A free service that blocks malicious domains to protect against threats like malware, phishing, and spyware, while ensuring privacy and improving performance. Operated by the Swiss-based Quad9 Foundation.
+URL: <https://www.quad9.net/>
 
 ## Proton Products 🔒
+
 Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimited" subscription. You can also sign up for a **Limited FREE Proton Mail** account and then use your Proton Mail credentials to access other Proton services, including **Proton VPN** and more.
 
 - **Proton Mail** ✉️  
   Encrypted email service that ensures privacy and security. Built by scientists from CERN, Proton Mail offers end-to-end encryption and is a leader in email security.  
-  URL: https://proton.me/mail
+  URL: <https://proton.me/mail>
 - **Proton Drive** 💾  
   Secure cloud storage solution that encrypts your files before they reach the cloud, ensuring that no one else can access your data.  
-  URL: https://proton.me/drive
+  URL: <https://proton.me/drive>
 - **Proton VPN** 🛡️  
   No-logs VPN service focused on privacy and security, offering anonymous browsing and access to content from around the world.  
-  URL: https://protonvpn.com
+  URL: <https://protonvpn.com>
 - **Proton Calendar** 📅  
   Privacy-focused, encrypted calendar that keeps your events secure and private.  
-  URL: https://proton.me/calendar
+  URL: <https://proton.me/calendar>
 - **Proton Pass** 🔑  
   Password manager with end-to-end encryption, keeping your passwords and personal information safe.  
-  URL: https://proton.me/pass
+  URL: <https://proton.me/pass>
 - **Proton Wallet** 🪙  
   Digital wallet for managing your cryptocurrency with Proton's high level of security.  
-  URL: https://proton.me/wallet
+  URL: <https://proton.me/wallet>
 - **SimpleLogin** 📨  
   Alias email service that protects your primary email address by creating burner addresses, useful for sign-ups and avoiding spam.  
-  URL: https://simplelogin.io
+  URL: <https://simplelogin.io>
 
 ## Browsers 🌍
 
 - **Firefox** 🦊  
   Fast, secure, and privacy-respecting web browser developed by Mozilla. Known for its robust security features and support for a variety of privacy-enhancing add-ons.  
-  URL: https://www.mozilla.org/en-GB/firefox/new/  
+  URL: <https://www.mozilla.org/en-GB/firefox/new/>  
 
   **Pros**:  
   - ✅ Strong privacy features and add-ons  
@@ -83,7 +88,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
 
 - **Mercury** 🌟
   Hardened version of Firefox, optimized for privacy by disabling telemetry, fingerprinting, and other tracking techniques. Ideal for users looking for an extra layer of privacy.  
-  URL: https://thorium.rocks/mercury  
+  URL: <https://thorium.rocks/mercury>  
 
   **Pros**:  
   - ✅ Enhanced privacy protections  
@@ -94,9 +99,9 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
   - ❌ May require additional configuration for optimal use  
   - ❌ Performance may vary depending on privacy settings  
 
-- **Mullvad Browser** 🔒 
+- **Mullvad Browser** 🔒
   Designed in collaboration with the Tor Project to reduce browser fingerprinting. An even more privacy-conscious version of Firefox, best used with Mullvad VPN.  
-  URL: https://mullvad.net/en/browser  
+  URL: <https://mullvad.net/en/browser>  
 
   **Pros**:  
   - ✅ Strong privacy and anonymity features  
@@ -109,7 +114,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
 
 - **LibreWolf** 🐺  
   A privacy-focused fork of Firefox with a variety of security enhancements and privacy protections. Designed for users who want a Firefox experience without the telemetry and data collection.  
-  URL: https://librewolf.net  
+  URL: <https://librewolf.net>  
 
   **Pros**:  
   - ✅ No telemetry or data collection  
@@ -122,7 +127,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
 
 - **Cromite** 🦠  
   A privacy-enhanced Chromium-based browser with additional security features and privacy settings. Suitable for users who prefer Chromium’s interface but with increased privacy controls.  
-  URL: https://github.com/uazo/cromite  
+  URL: <https://github.com/uazo/cromite>  
 
   **Pros**:  
   - ✅ Enhanced privacy and security features  
@@ -135,7 +140,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
 
 - **Tor Browser** 🕵️‍♂️  
   A privacy-focused browser that routes traffic through the Tor network to anonymize browsing and protect against tracking. Ideal for users seeking high anonymity online.  
-  URL: https://www.torproject.org/download/  
+  URL: <https://www.torproject.org/download/>  
 
   **Pros**:  
   - ✅ High level of anonymity  
@@ -145,7 +150,7 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
   **Cons**:  
   - ❌ Slower browsing speeds due to Tor network  
   - ❌ Some websites may not function properly
- 
+
 ## Browser Recommendations 🌟
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
@@ -172,38 +177,39 @@ Proton offers a suite of secure, privacy-focused tools under the Proton "Unlimit
 Enhance your browser's privacy and functionality with these recommended extensions:
 
 > [!NOTE]
+>
 > - **Privacy Badger** and **Decentraleyes** are not needed in **Firefox** or its forks (including **LibreWolf**, which has **ETP** enabled by default) unless you have **ETP** disabled. To avoid using these extensions, ensure that **ETP (Enhanced Tracking Protection)** is enabled. They are also not needed in **Cromite** due to its custom cookie isolation settings.
-> 
+>
 > - **Cookie AutoDelete** is not necessary in **Chromium-based browsers on Windows** if you have the **"Clear site data on close"** setting enabled, nor in **LibreWolf**, as it clears site data by default. To avoid using this extension in other browsers, enable the **"Clear site data on close"** setting.
 
 - **uBlock Origin** ✋  
   A highly efficient ad and tracker blocker that reduces page load times and blocks unwanted content, keeping your browsing fast and private.  
-  URL : https://github.com/gorhill/uBlock  
+  URL : <https://github.com/gorhill/uBlock>  
   See [Tools and Utilities 🧰](#tools-and-utilities-) for the setup guide.
 
 - **SponsorBlock** ⏩  
   Automatically skips sponsored segments in YouTube videos, allowing you to enjoy content without interruptions.  
-  URL : https://sponsor.ajay.app/
+  URL : <https://sponsor.ajay.app/>
   
 - **CanvasBlocker** 🎨  
   Prevents websites from tracking you using canvas fingerprinting, a technique to uniquely identify and track your device.  
-  URL : https://github.com/kkapsner/CanvasBlocker
+  URL : <https://github.com/kkapsner/CanvasBlocker>
 
 - **ClearURLs** 🔗  
   Strips tracking elements from URLs, preventing companies from tracking your clicks and improving privacy.  
-  URL : https://github.com/ClearURLs/Addon
+  URL : <https://github.com/ClearURLs/Addon>
 
 - **Privacy Badger** 🦡 [❗️**READ NOTE**❗️]  
   Automatically blocks invisible trackers and helps protect you from companies that track your browsing habits. Developed by the EFF.  
-  URL : https://www.eff.org/privacybadger
+  URL : <https://www.eff.org/privacybadger>
 
 - **Decentraleyes** 🛠️ [❗️**READ NOTE**❗️]  
   Prevents tracking through content delivery networks (CDNs) by locally emulating commonly used web libraries, boosting privacy without breaking sites.  
-  URL : https://decentraleyes.org/
+  URL : <https://decentraleyes.org/>
 
 - **Cookie AutoDelete** 🍪 [❗️**READ NOTE**❗️]  
   Automatically deletes cookies from closed tabs, reducing the chance of being tracked across the web. Customizable to retain important cookies.  
-  URL : https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
+  URL : <https://github.com/Cookie-AutoDelete/Cookie-AutoDelete>
 
 ## VPNs 🔑
 
@@ -211,11 +217,11 @@ Enhance your browser's privacy and functionality with these recommended extensio
 
 - **Proton VPN** 🌐  
   A privacy-focused VPN service that is part of the Proton suite. Known for its strong security features, no-logs policy, and commitment to privacy.  
-  URL: https://protonvpn.com
+  URL: <https://protonvpn.com>
 
 - **Mullvad VPN** 🔒  
   A VPN service known for its strong privacy and security features, with a focus on anonymity. Offers a high level of transparency and does not require personal information to sign up.  
-  URL: https://mullvad.net/en/
+  URL: <https://mullvad.net/en/>
 
 ## Secure Messaging Platforms 🔐
 
@@ -223,15 +229,15 @@ Enhance your browser's privacy and functionality with these recommended extensio
 
 - **Threema** 🛡️
 A privacy-focused messaging app based in Switzerland, offering end-to-end encryption and anonymous use without requiring a phone number or email.
-URL : https://threema.ch
+URL : <https://threema.ch>
 
 - **Session** 🔑
 A decentralized messaging platform with end-to-end encryption and no need for a phone number or email, ensuring high privacy and anonymity.  
-URL : https://getsession.org
+URL : <https://getsession.org>
 
 - **Signal** 📱
 A secure messaging app with end-to-end encryption and a simple, user-friendly design, offering privacy-focused messaging and calls.  
-URL : https://signal.org
+URL : <https://signal.org>
 
 ## Secure OS's 🛡
 
@@ -239,15 +245,15 @@ URL : https://signal.org
 
 - **Tails OS** 🖥️  
   A security-focused, Debian-based Linux distribution aimed at preserving privacy and anonymity. Tails routes all its internet traffic through the Tor network and leaves no traces on the machine unless explicitly told to do so.  
-  URL: https://tails.boum.org/
+  URL: <https://tails.boum.org/>
 
 - **Qubes OS** 🛡️  
   A highly secure operating system designed for strong security through isolation, based on the Xen hypervisor. It compartmentalizes applications into isolated virtual machines, reducing the attack surface.  
-  URL: https://www.qubes-os.org/
+  URL: <https://www.qubes-os.org/>
 
 - **Whonix** 🔒  
   A privacy-focused operating system based on Tor, designed to provide advanced security by isolating internet traffic within a separate virtual machine, ensuring strong anonymity.  
-  URL: https://www.whonix.org/
+  URL: <https://www.whonix.org/>
 
 ## AI 🤖
 
@@ -255,11 +261,11 @@ URL : https://signal.org
 
 - **Ollama**  
   Ollama provides an easy-to-use platform for running large language models locally on your device. It is privacy-focused, allowing users to run models without relying on cloud-based services. Ollama also has a GitHub repository with various resources, and users can explore web app wrappers to enhance their experience.  
-  GitHub: https://github.com/jmorganca/ollama
+  GitHub: <https://github.com/jmorganca/ollama>
 
 - **GPT4All**  
   GPT4All is an open-source initiative that enables users to run powerful language models on their own machines without the need for cloud access. It is designed for privacy and versatility, allowing individuals to fine-tune and use large-scale models for various tasks offline.  
-  URL: https://gpt4all.io/
+  URL: <https://gpt4all.io/>
 
 ## Tools and Utilities 🧰
 
@@ -267,24 +273,24 @@ URL : https://signal.org
 
 - **uBlock Origin Setup Guide** 🛠️ (Follow "Recommended, Enhanced and Pro" instructions for optimal setup.)  
   Detailed guide for configuring uBlock Origin to achieve maximum privacy and ad-blocking capabilities. Follow the "Enhanced and Pro" recommendations to fine-tune your setup.  
-  URL: https://github.com/yokoffing/filterlists
+  URL: <https://github.com/yokoffing/filterlists>
 
 - **Enable Post Quantum Cryptography Support in Web Browsers** 🔐  
   Learn how to enable experimental support for post-quantum cryptography in popular browsers, ensuring your data remains secure in the future as quantum computing advances.  
-  URL: https://evertrust.io/education/enable-post-quantum-cryptography-support-in-web-browsers
+  URL: <https://evertrust.io/education/enable-post-quantum-cryptography-support-in-web-browsers>
 
 - **Have I Been Pwned** 🔍  
   Simple tool to check if your email address has been involved in any data breaches. It searches millions of breached datasets and alerts you if your data has been compromised.  
-  URL: https://haveibeenpwned.com
+  URL: <https://haveibeenpwned.com>
 
 - **Bitwarden** 🔐 (Password Manager)  
   Open-source password manager that offers secure password storage, autofill, and generation. Available on a global network, but you can choose the `.eu` server for enhanced privacy if you’re in the EU.  
-  URL: https://bitwarden.com
+  URL: <https://bitwarden.com>
 
 - **Time Hash Code (THC v1.0.1)** ⏳  
   Handy tool that generates random IDs using a time-based hashing algorithm. Ideal for unique identifier generation in scripts, projects, or usernames.  
   **Note**: This tool is available exclusively as a Apple Shortcut, which can be added and used on Apple devices with the Shortcuts app.  
-  URL: https://www.icloud.com/shortcuts/6c8684fc6b3b49fc9ec6606a9064c8b0
+  URL: <https://www.icloud.com/shortcuts/6c8684fc6b3b49fc9ec6606a9064c8b0>
 
 ## Hardware 🛒
 
@@ -292,11 +298,11 @@ URL : https://signal.org
 
 - **Buy a Raspberry Pi** 🥧  
   Ideal for DIY projects, home automation, and learning about computing. A versatile and affordable option for various tech enthusiasts.  
-  URL: https://thepihut.com
+  URL: <https://thepihut.com>
 
 - **Protectli** 🔒  
   Provides a range of secure, reliable hardware solutions designed for protecting your network. Suitable for setting up firewalls and secure network appliances.  
-  URL: https://eu.protectli.com
+  URL: <https://eu.protectli.com>
 
 ## Podcasts and Media 📺
 
@@ -304,7 +310,7 @@ URL : https://signal.org
 
 - **The Lazarus Heist (Season 1 & 2)** 🎬
   A thrilling podcast from the BBC World Service covering the story of the Lazarus Group—hackers with alleged ties to North Korea. Season 1 begins with "Hacking Hollywood".  
-  URL: https://youtube.com/playlist?list=PLz_B0PFGIn4ccgXclIq9gdmf_nFNz-Og8
+  URL: <https://youtube.com/playlist?list=PLz_B0PFGIn4ccgXclIq9gdmf_nFNz-Og8>
 
 ## Recommended YouTubers 📺
 
@@ -312,23 +318,23 @@ URL : https://signal.org
 
 - **Network Chuck** 🎥  
   Popular YouTuber focusing on networking, cybersecurity, and ethical hacking. Great for learning IT skills and staying updated on the latest security practices.  
-  URL: https://www.youtube.com/@NetworkChuck
+  URL: <https://www.youtube.com/@NetworkChuck>
 
 - **DBTech** 📺  
   Covers various IT topics, with a focus on self-hosting, Raspberry Pi projects, and Docker containers. His tutorials are easy to follow for beginners and advanced users alike.  
-  URL: https://www.youtube.com/@DBTechYT
+  URL: <https://www.youtube.com/@DBTechYT>
 
 - **Christian Lempa** 🎓  
   Produces in-depth tutorials on self-hosting, cloud computing, and enterprise IT solutions. Ideal for IT professionals and enthusiasts.  
-  URL: https://www.youtube.com/@christianlempa
+  URL: <https://www.youtube.com/@christianlempa>
 
 - **Techno Tim** 🖥️  
   Focuses on self-hosting, networking, and automation. His tutorials are well-structured and great for users interested in setting up their own servers and networks.  
-  URL: https://www.youtube.com/@TechnoTim
+  URL: <https://www.youtube.com/@TechnoTim>
 
 - **Linus Tech Tips** 💻  
   Provides a wide range of technology-related content, including reviews, tutorials, and industry news. Excellent for keeping up with the latest in tech and gadgets.  
-  URL: https://www.youtube.com/@LinusTechTips
+  URL: <https://www.youtube.com/@LinusTechTips>
 
 ## Thesaurus for Non-Techies 🧠
 
