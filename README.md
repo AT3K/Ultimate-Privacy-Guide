@@ -442,15 +442,15 @@ Enhance your browser's privacy and functionality with these recommended extensio
 
 - **Joplin** ✏️  
   An open-source note-taking and to-do application with end-to-end encryption. Joplin can sync with various cloud services while keeping your data secure.  
-  URL: [Joplin](https://joplinapp.org)
+  URL: <https://joplinapp.org>
 
 - **Turtl** 🐢  
   A privacy-focused note-taking app that uses strong encryption to protect your data. Turtl is designed for easy organization and collaboration.  
-  URL: [Turtl](https://turtlapp.com)
+  URL: <https://turtlapp.com>
 
 - **Cryptee** 🛡️  
   Encrypted and privacy-focused note-taking and photo storage. Cryptee offers secure storage for your notes and files with end-to-end encryption.  
-  URL: [Cryptee](https://crypt.ee)
+  URL: <https://crypt.ee>
 
 ## Secure Messaging Platforms 🔐
 
