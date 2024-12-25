@@ -21,7 +21,7 @@ Dive into the sections below to discover tools and services that can help you ac
 - [Cloud Storage Providers ☁️](cloud-storage-providers-): Recommendations for privacy-focused cloud storage solutions.
 - [Calendar 📅](#calendars-): Recommendations for privacy-focused calendar services.
 - [Password Managers 🔑](#password-managers-): Recommendations for zero-knowledge and open-source password management solutions.
-- [2FA Providers 🔐](#privacy-focused-2fa-providers-): Recommendations for privacy-focused 2FA services.
+- [2FA Providers 🔐](#2fa-providers-): Recommendations for privacy-focused 2FA services.
 - [Wallet Providers 🪙](#wallet-providers-): Recommendations for secure and privacy-focused cryptocurrency wallets.
 - [Alias Email Services 📧](#alias-email-services-): Recommendations for zero-knowledge email alias services.
 - [Secure Messaging Platforms 🔐](#secure-messaging-platforms-): Recommendations for secure messaging platforms.
