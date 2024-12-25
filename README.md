@@ -12,8 +12,8 @@ Dive into the sections below to discover tools and services that can help you ac
 ## Table of Contents
 
 - [Resources and Tools](#resources-and-tools): Tools for improving internet security and privacy.
-  - [DNS 🌐](#dns-): Tools for improving internet security and privacy.
-  - [Browsers 🌍](#browsers-): Recommendations for privacy-focused web browsers.
+- [DNS 🌐](#dns-): Tools for improving internet security and privacy.
+- [Browsers 🌍](#browsers-): Recommendations for privacy-focused web browsers.
 - [Browser Recommendations 🌟](#browser-recommendations-): Recommendations for privacy-focused web browsers.
 - [Browser Extensions 🛡️](#browser-extensions-): Essential extensions to enhance your browser's privacy and security.
 - [Mail Providers 📧](#mail-providers-): Recommendations for privacy-focused mail services.
@@ -21,6 +21,7 @@ Dive into the sections below to discover tools and services that can help you ac
 - [Cloud Storage Providers ☁️](cloud-storage-providers-): Recommendations for privacy-focused cloud storage solutions.
 - [Calendar 📅](#calendars-): Recommendations for privacy-focused calendar services.
 - [Password Managers 🔑](#password-managers-): Recommendations for zero-knowledge and open-source password management solutions.
+- [2FA Providers 🔐](#privacy-focused-2fa-providers-): Recommendations for privacy-focused 2FA services.
 - [Wallet Providers 🪙](#wallet-providers-): Recommendations for secure and privacy-focused cryptocurrency wallets.
 - [Alias Email Services 📧](#alias-email-services-): Recommendations for zero-knowledge email alias services.
 - [Secure Messaging Platforms 🔐](#secure-messaging-platforms-): Recommendations for secure messaging platforms.
@@ -334,6 +335,42 @@ Enhance your browser's privacy and functionality with these recommended extensio
   A unique approach to password management, LessPass generates passwords based on your master password and username, eliminating the need to store passwords. This zero-knowledge solution ensures maximum security and simplifies the password management process.  
   URL: <https://lesspass.com/>
 
+## 2FA Providers 🔐
+
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
+- **Authy**  
+  A popular 2FA provider offering support for multiple devices, secure backups, and offline functionality. Authy encrypts data end-to-end for privacy and security.  
+  URL: <https://authy.com/>
+
+- **Duo Security**  
+  A 2FA solution designed for both personal and enterprise use, Duo Security offers push notifications, TOTP, and hardware token options.  
+  URL: <https://www.duo.com/>
+
+- **FreeOTP**  
+  An open-source 2FA app available for Android and iOS that supports TOTP and HOTP, storing all authentication data locally on the device.  
+  URL: <https://fedorahosted.org/freeotp/>
+
+- **Aegis Authenticator**  
+  An open-source 2FA app for Android that supports TOTP, storing all tokens locally with encrypted backups.  
+  URL: <https://github.com/beemdevelopment/Aegis>
+
+- **Myki**  
+  A password manager and 2FA provider that focuses on offline storage, generating 2FA tokens directly on the device without sending data to the cloud.  
+  URL: <https://myki.com/>
+
+- **Yubico (YubiKey)**  
+  A hardware-based solution for 2FA, YubiKey uses FIDO2, U2F, and OTP protocols to securely authenticate without needing a password.  
+  URL: <https://www.yubico.com/>
+
+- **Bitwarden (Authenticator)**  
+  An open-source password manager that includes built-in 2FA functionality, generating TOTP codes directly from the app.  
+  URL: <https://bitwarden.com/>
+
+- **2FAS (Two-Factor Authentication Service)**  
+  A privacy-focused 2FA provider offering secure push notifications and TOTP-based 2FA services with the option for self-hosting.  
+  URL: <https://2fas.com/>
+
 ## Wallet Providers 🪙
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
@@ -450,10 +487,11 @@ URL : <https://signal.org>
   Simple tool to check if your email address has been involved in any data breaches. It searches millions of breached datasets and alerts you if your data has been compromised.  
   URL: <https://haveibeenpwned.com>
 
-- **Time Hash Code (THC v1.0.1)** ⏳  
+- **Time Hash Code (THC)** ⏳  
   Handy tool that generates random IDs using a time-based hashing algorithm. Ideal for unique identifier generation in scripts, projects, or usernames.  
   **Note**: This tool is available exclusively as a Apple Shortcut, which can be added and used on Apple devices with the Shortcuts app.  
-  URL: <https://www.icloud.com/shortcuts/6c8684fc6b3b49fc9ec6606a9064c8b0>
+  URL: <https://github.com/AT3K/Time-Hash-Code>
+  
 
 ## Hardware 🛒
 
