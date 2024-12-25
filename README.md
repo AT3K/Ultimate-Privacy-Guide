@@ -12,10 +12,10 @@ Dive into the sections below to discover tools and services that can help you ac
 ## Table of Contents
 
 - [Resources and Tools](#resources-and-tools): Tools for improving internet security and privacy.
-- [DNS 🌐](#dns-): Tools for improving internet security and privacy.
-- [Browsers 🌍](#browsers-): Recommendations for privacy-focused web browsers.
-- [Browser Recommendations 🌟](#browser-recommendations-): Recommendations for privacy-focused web browsers.
-- [Browser Extensions 🛡️](#browser-extensions-): Essential extensions to enhance your browser's privacy and security.
+  - [DNS 🌐](#dns-): Tools for improving internet security and privacy.
+  - [Browsers 🌍](#browsers-): Recommendations for privacy-focused web browsers.
+  - [Browser Recommendations 🌟](#browser-recommendations-): Recommendations for privacy-focused web browsers.
+  - [Browser Extensions 🛡️](#browser-extensions-): Essential extensions to enhance your browser's privacy and security.
 - [Mail Providers 📧](#mail-providers-): Recommendations for privacy-focused mail services.
 - [VPNs 🛡️](#vpns-): Recommendations for privacy-focused VPN services.
 - [Cloud Storage Providers ☁️](cloud-storage-providers-): Recommendations for privacy-focused cloud storage solutions.
@@ -24,6 +24,7 @@ Dive into the sections below to discover tools and services that can help you ac
 - [2FA Providers 🔐](#2fa-providers-): Recommendations for privacy-focused 2FA services.
 - [Wallet Providers 🪙](#wallet-providers-): Recommendations for secure and privacy-focused cryptocurrency wallets.
 - [Alias Email Services 📧](#alias-email-services-): Recommendations for zero-knowledge email alias services.
+- [Encrypted Note-Taking 📓](#encrypted-note-taking-): Recommendations for secure note-taking applications.
 - [Secure Messaging Platforms 🔐](#secure-messaging-platforms-): Recommendations for secure messaging platforms.
 - [Secure OS's 🛡️](#secure-oss-): Recommendations for security-focused operating systems.
 - [AI 🤖](#ai-): AI tools like Ollama and GPT4All for private and offline use.
@@ -239,6 +240,10 @@ Enhance your browser's privacy and functionality with these recommended extensio
   A VPN service known for its strong privacy and security features, with a focus on anonymity. Offers a high level of transparency and does not require personal information to sign up.  
   URL: <https://mullvad.net/en/>
 
+- **Tailscale** 🛡️  
+  A self-hosted VPN service that simplifies secure network connectivity. Tailscale uses WireGuard to create a secure network between your devices.  
+  URL: <https://tailscale.com>
+
 ## Cloud Storage Providers ☁️
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
@@ -426,6 +431,26 @@ Enhance your browser's privacy and functionality with these recommended extensio
 - **Tutanota** 🔒  
   An encrypted email service that offers alias email addresses, enabling you to keep your primary address private while securely managing communications. Tutanota is fully open-source and focuses on user privacy.  
   URL: <https://tutanota.com>
+
+## Encrypted Note-Taking 📓
+
+**[`^        back to top        ^`](#ultimate-privacy-guide-)**
+
+- **Standard Notes** 📓  
+  A secure and private note-taking app that offers end-to-end encryption. Standard Notes ensures that only you can read your notes.  
+  URL: [Standard Notes](https://standardnotes.com)
+
+- **Joplin** ✏️  
+  An open-source note-taking and to-do application with end-to-end encryption. Joplin can sync with various cloud services while keeping your data secure.  
+  URL: [Joplin](https://joplinapp.org)
+
+- **Turtl** 🐢  
+  A privacy-focused note-taking app that uses strong encryption to protect your data. Turtl is designed for easy organization and collaboration.  
+  URL: [Turtl](https://turtlapp.com)
+
+- **Cryptee** 🛡️  
+  Encrypted and privacy-focused note-taking and photo storage. Cryptee offers secure storage for your notes and files with end-to-end encryption.  
+  URL: [Cryptee](https://crypt.ee)
 
 ## Secure Messaging Platforms 🔐
 
