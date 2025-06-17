@@ -1,5 +1,7 @@
 # Ultimate Privacy Guide! 🌐🔒
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c1c83878475f44e5a306f96e7007fd06)](https://app.codacy.com/gh/AT3K/Ultimate-Privacy-Guide/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 This repository is a semi-comprehensive collection of resources, tools, and recommendations designed to help you enhance your online privacy and security. Whether you’re just starting out or looking to secure your internet connection, protect your personal information, or explore the latest privacy-focused technologies, you’ll find valuable links and information here.
 
 We’ve simplified everything for easy understanding, offering essential steps and tips to improve your privacy with straightforward tools and techniques. Whether you’re a beginner or explaining it to Grandma or your Girlfriend, this guide ensures everyone can enhance their online security. 🌟
@@ -34,7 +36,8 @@ Dive into the sections below to discover tools and services that can help you ac
 - [Recommended YouTubers 📺](#recommended-youtubers-): Influential creators sharing insights on technology, cybersecurity, and more.
 - [Thesaurus for Non-Techies](#thesaurus-for-non-techies-): Definitions of common tech and privacy terms for beginners.
 - [License 📝](#license-): Information about the licensing terms for this repository.
-# Resources and Tools
+
+## Resources and Tools
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
 
@@ -517,7 +520,6 @@ URL : <https://signal.org>
   **Note**: This tool is available exclusively as a Apple Shortcut, which can be added and used on Apple devices with the Shortcuts app.  
   URL: <https://github.com/AT3K/Time-Hash-Code>
   
-
 ## Hardware 🛒
 
 **[`^        back to top        ^`](#ultimate-privacy-guide-)**
